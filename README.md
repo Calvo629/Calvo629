@@ -1,52 +1,24 @@
-<h1 align="center">Hola, soy Rodrigo Martinez Hernandez 👋</h1>
+# 💫 About Me:
+Soy estudiante de Ingeniería de Software con especialización en Ciberseguridad, con un fuerte interés en ensamblador, cheats, anticheats y hacking en videojuegos. Actualmente, estoy desarrollando proyectos personales en C++ relacionados con hacking y seguridad en videojuegos. Busco oportunidades para aplicar mis habilidades en Ciberseguridad y seguir explorando el mundo de la ingeniería inversa y las técnicas de protección.
 
-<h3 align="center">💻 Software Engineering Student | 🚀 Tech Enthusiast</h3>
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rodri_mhz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rodrigo Martínez Hernández ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rodrigomhz@protonmail.com) 
 
-### 🛠 **Languages and Tools:**
-<p align="center"> 
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> 
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Calvo629&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Calvo629&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Calvo629&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Calvo629&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-### 📊 **GitHub Stats**
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Calvo629&show_icons=true&theme=dark&locale=en&layout=compact&count_private=true&cache_seconds=10" alt="Calvo629 Top Langs" width="350"/>
-      </td>
-      <td rowspan="3">
-        <img src="https://i.imgur.com/9rH65aS.jpeg" alt="Coding Image" width="400"/>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Calvo629&show_icons=true&theme=dark&locale=en&count_private=true&cache_seconds=10" alt="Calvo629 GitHub Stats" width="350"/>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Calvo629&theme=dark" alt="Calvo629 Streak Stats" width="350"/>
-      </td>
-    </tr>
-  </table>
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Calvo629&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Calvo629&icon=9&color=4)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Calvo629&label=Profile%20views&color=0e75b6&style=flat" alt="Calvo629 Profile Views" />
-</p>
-
----
-
-📝 **[Calvo629](https://github.com/Calvo629)**  
-_Last Edited on: 13/03/2025_
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
